@@ -1,20 +1,21 @@
-<h1 align="center">Привет, я Богдан 👋</h1>
 
-<h3 align="center">🚀 CEO, разработчик и энтузиаст ИИ</h3>
+<h1 align="center">Hi, I'm Bohdan 👋</h1>
 
----
-
-## 🧑‍💻 Немного обо мне
-
-- 💼 CEO технологической компании
-- 👨‍💻 Fullstack-разработчик с уклоном в **AI, бизнес-автоматизацию и мобильные решения**
-- 🧠 Работаю с искусственным интеллектом на практике: **интеграции, автоматизация, генерация**
-- ⚡ Люблю писать полезный код и строить сильные продукты
-- 🎯 Мне 23, и я уже слишком много работаю
+<h3 align="center">🚀 CEO, Developer, and AI Enthusiast</h3>
 
 ---
 
-## 🛠️ Мой стек
+## 🧑‍💻 A Bit About Me
+
+* 💼 CEO of a tech company
+* 👨‍💻 Fullstack developer focused on **AI, business automation, and mobile solutions**
+* 🧠 Hands-on with AI: **integrations, automation, generation**
+* ⚡ I love writing useful code and building strong products
+* 🎯 I'm 23 and already working way too much
+
+---
+
+## 🛠️ My Tech Stack
 
 ### 📦 Backend
 
@@ -34,7 +35,7 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart,android&theme=dark" />
 </p>
 
-### 🤖 AI / Автоматизация
+### 🤖 AI / Automation
 
 <p>
   <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" />
@@ -42,14 +43,13 @@
   <img src="https://img.shields.io/badge/LLMs-FFDD00?style=for-the-badge" />
 </p>
 
-### 🧰 Инструменты разработки
+### 🧰 Dev Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=phpstorm,webstorm,idea,vscode,git,github&theme=dark" />
 </p>
 
-
-## 📊 GitHub Статистика
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=deodathus-ua&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -58,5 +58,7 @@
 
 ---
 
-> _"Технологии ради бизнеса, а не наоборот. Всё автоматизируем."_  
-> — Богдан, 2025
+> *"Technology exists for business, not the other way around. Let’s automate everything."*
+> — Bohdan, 2025
+
+
