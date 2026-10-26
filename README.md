@@ -11,7 +11,7 @@
 * 👨‍💻 Fullstack developer focused on **AI, business automation, and mobile solutions**
 * 🧠 Hands-on with AI: **integrations, automation, generation**
 * ⚡ I love writing useful code and building strong products
-* 🎯 I'm 23 and already working way too much
+* 🎯 I'm 24 and already working way too much
 
 ---
 
